@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   title: "Dersego Solutions - Craft Messaging That Converts",
   description:
     "We help sales teams & agencies speak with clarity and close with confidence. Expert messaging strategy and optimization for B2B companies in Atlanta.",
+  icons: {
+    icon: "/favicon.png",
+  },
   keywords: "messaging strategy, messaging optimization, brand communication, conversion strategy, B2B sales tools",
     generator: 'v0.dev'
 }
